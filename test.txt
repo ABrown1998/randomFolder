@@ -7,3 +7,4 @@ EDITED BY DUMMY
  SURPRISE! THIS LINE WAS EDITED BY MASTER
  
  DUMMY, IS BACK BABY!
+Hi, I'm from GitHub. Nice to meet you!
