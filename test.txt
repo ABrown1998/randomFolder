@@ -1,0 +1,9 @@
+hello, this is a test file.
+hopefully this goes through the git commit. 
+another line we go.  
+Hey, who is this dummy that's editing me, and where did the line above go?
+
+EDITED BY DUMMY
+ SURPRISE! THIS LINE WAS EDITED BY MASTER
+ 
+ DUMMY, IS BACK BABY!
